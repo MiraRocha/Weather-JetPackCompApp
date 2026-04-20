@@ -48,3 +48,6 @@ app/src/main/java/com/example/weatherjetpackcompapp/
 
 ---
 Este projeto serve como base de aprendizagem para o desenvolvimento Android nativo contemporâneo.
+
+<img width="475" height="937" alt="Captura de ecrã 2026-04-20 163022" src="https://github.com/user-attachments/assets/bba54e42-bc48-4cf5-9d38-d76fe7964c43" />
+
